@@ -1,8 +1,37 @@
 
 
-## Full Stack Developer 
+## Full Stack Blockchain Developer: GameFi, DeFi, Ethereum, DApps, NFT, MERN
 
-Skilled in developing and managing SAAS-based applications and decentralized applications from scratch.
+Skilled and experienced Full Stack Blockchain Developer, decentralized application architect, certified Ethereum developer with expertise in web development 
+and decentralized applications.
+
+Passionate about blockchain, smart contracts and Dapps development in particular. 
+Have worked on blockchain projects as a developer and lead consultant across numerous companies.
+
+Also specialized in HTML, CSS, Javascript, jQuery, Bootstrap, React.js, Redux, Next.js, TailwindCss, Node.js, Express, PHP, Larvel, Ruby on Rails, Braintree, 
+and a whole host of other technologies, platforms, and libraries. 
+Whatever your needs are, I will find a solution that fits it.
+
+My skills are listed below but not limited to:
+- NFTs (ERC721, Creation, Marketplace, for ex. like on Rarible, SuperRare, Opensea etc.)
+- ERC20 - Token creation and distribution
+- DeFi (Staking, Yield Farming, for ex. via platforms like Yearn, Uniswap, Sushiswap, Compound, Aave)
+- GameFi (PlaytoEarn Games)
+- Flashloans & Arbitrage
+- Smart Contract Development
+- DApp and App Development
+
+I deliver high-quality work, using:
+- Solidity & Ethereum
+- Hardhat (incl. Unit Testing)
+- OpenZeppelin
+- Truffle, Ganache, waffle
+- web3.js, ethers.js, Metamask
+- Remix IDE
+- JavaScript, HTML & CSS
+- React.js, Redux, Vue.js
+
+Thanks for your time!
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=mogw.mogwVISITORS&label=Profile%20views&color=0e75b6&style=flat)
 
