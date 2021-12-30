@@ -96,14 +96,11 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mogw&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
 
-<br/>
-
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 💬 Telegram : @fullstack_mogw <br />
 📝 Email : mogwinfo@gmail.com <br />
 💫 Skype: live:mogwinfo <br />
-<br />
 
 #### Buy me a ☕ with bitcoin
 0xDe8D9E71DA9F77Ff8B87171a0Ea8a83050ae0140
