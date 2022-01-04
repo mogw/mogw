@@ -1,10 +1,31 @@
 ### Fullstack Blockchain developer with strong knowledge and hands-on experience in <br />
 
 ✅    Solidity, Rust, Hardhat, Truffle <br />
-✅    React, NextJs, Typescript, Web3, Ethersjs <br />
+✅    Web3, Ethersjs <br />
 ✅    DeFi, Dex, Stacking, Yield Farming, Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon..) <br />
 ✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
-✅    GameFi (PlayToEarn Games, PvP, PvE) <br />
+✅    GameFi (PlayToEarn Games, PvP, PvE)
+
+###  Competent Web developer with several years experience in <br />
+✅    Typescript, React.js, Redux, Node.js, Express.js, Next.js, Gatsby.js, Typescript <br />
+✅    Python/Django, Flask, PHP/Laravel,  <br />
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+💬 Telegram : @fullstack_mogw <br />
+📝 Email : mogwinfo@gmail.com <br />
+💫 Skype: live:mogwinfo <br />
+
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhurryharry&layout=compact&theme=gotham&count_private=true">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mogw&show_icons=true&theme=gotham&count_private=true">
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
+</div>
 
 <br />
 
@@ -46,22 +67,6 @@
   </table>
 <br />
 
-<div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhurryharry&layout=compact&theme=gotham&count_private=true">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mogw&show_icons=true&theme=gotham&count_private=true">
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
-</div>
-
-<br />
-
-
-
-
 💗 **Tech Stacks:**
 
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
@@ -95,12 +100,6 @@
 <br/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mogw&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-💬 Telegram : @fullstack_mogw <br />
-📝 Email : mogwinfo@gmail.com <br />
-💫 Skype: live:mogwinfo <br />
 
 #### Buy me a ☕ with bitcoin
 0xDe8D9E71DA9F77Ff8B87171a0Ea8a83050ae0140
