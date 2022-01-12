@@ -1,4 +1,4 @@
-### Fullstack Blockchain developer with strong knowledge and hands-on experience in <br />
+### Fullstack Blockchain developer with strong knowledge and 2+ years hands-on experience in <br />
 
 ✅    Solidity, Rust, Hardhat, Truffle <br />
 ✅    Web3, Ethersjs <br />
@@ -6,7 +6,7 @@
 ✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
 ✅    GameFi (PlayToEarn Games, PvP, PvE)
 
-###  Competent Web developer with several years experience in <br />
+###  Competent Web developer with 8+ years experience in <br />
 ✅    Typescript, React.js, Redux, Node.js, Express.js, Next.js, Gatsby.js, Typescript <br />
 ✅    Python/Django, Flask, PHP/Laravel,  <br />
 
@@ -101,5 +101,3 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mogw&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
 
-#### Buy me a ☕ with bitcoin
-0xDe8D9E71DA9F77Ff8B87171a0Ea8a83050ae0140
