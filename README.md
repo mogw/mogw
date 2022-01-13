@@ -1,4 +1,4 @@
-### Fullstack Blockchain developer with strong knowledge and 2+ years hands-on experience in <br />
+### Fullstack Blockchain developer with strong knowledge and 3+ years hands-on experience in <br />
 
 ✅    Solidity, Rust, Hardhat, Truffle <br />
 ✅    Web3, Ethersjs <br />
