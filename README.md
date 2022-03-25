@@ -7,14 +7,14 @@
 ✅    GameFi (PlayToEarn Games, PvP, PvE)
 
 ###  Competent Web developer with 8+ years experience in <br />
-✅    Typescript, React.js, Redux, Node.js, Express.js, Next.js, Gatsby.js, Typescript <br />
-✅    Python/Django, Flask, PHP/Laravel,  <br />
+✅    Typescript, React.js, Next.js, Redux, Vue.js, Nuxt.js, Vue, Angular, Node.js, Express.js, Next.js, GraphQL<br />
+✅    Python/Django/Flask, PHP/Laravel, Ruby on Rails <br />
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-💬 Telegram : @fullstack_mogw <br />
-📝 Email : mogwinfo@gmail.com <br />
-💫 Skype : live:mogwinfo <br />
+💬 Telegram: @fullstack_mogw <br />
+📝 Email: mogwinfo@gmail.com <br />
+💫 Skype: live:mogwinfo <br />
 
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogw&layout=compact&theme=gotham&count_private=true">
