@@ -6,7 +6,7 @@
 ✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
 ✅    GameFi (PlayToEarn Games, PvP, PvE)
 
-###  Competent Web developer with 8+ years experience in <br />
+###  Competent Web developer with 9+ years experience in <br />
 ✅    Typescript, React.js, Next.js, Redux, Vue.js, Nuxt.js, Vue, Angular, Node.js, Express.js, Next.js, GraphQL<br />
 ✅    Python/Django/Flask, PHP/Laravel, Ruby on Rails <br />
 
