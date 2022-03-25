@@ -14,7 +14,7 @@
 
 💬 Telegram : @fullstack_mogw <br />
 📝 Email : mogwinfo@gmail.com <br />
-💫 Skype: live:mogwinfo <br />
+💫 Skype : live:mogwinfo <br />
 
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogw&layout=compact&theme=gotham&count_private=true">
@@ -29,7 +29,7 @@
 
 <br />
 
-**Languages and Tools:**  
+**Languages and Tools :**  
 
 <table>
   <tr>
