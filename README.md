@@ -8,7 +8,7 @@
 
 ###  Competent Web developer with 9+ years experience in <br />
 ✅    Typescript, React.js, Next.js, Redux, Vue.js, Nuxt.js, Vue, Angular, Node.js, Express.js, Next.js, GraphQL<br />
-✅    Python/Django/Flask, PHP/Laravel, Ruby on Rails <br />
+✅    Golang/Gin, Python/Django/Flask, PHP/Laravel, Ruby on Rails <br />
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
