@@ -1,7 +1,7 @@
 ### Fullstack Blockchain developer with strong knowledge and 3+ years hands-on experience in <br />
 
 ✅    Solidity/OpenZeppline, Rust/Anchor, Hardhat, Truffle <br />
-✅    Web3, Ethersjs <br />
+✅    Web3.js, Ether.js <br />
 ✅    DeFi, Dex, Stacking, Yield Farming, Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon..) <br />
 ✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
 ✅    GameFi (PlayToEarn Games, PvP, PvE)
