@@ -7,8 +7,9 @@
 ✅    GameFi (PlayToEarn Games, PvP, PvE)
 
 ###  Competent Web developer with 9+ years experience in <br />
+✅    Golang/Gin, Python/Django/Flask, PHP/Laravel, Node/Express/Nest.js, Ruby on Rails <br />
 ✅    Typescript, React.js, Next.js, Redux, Vue.js, Nuxt.js, Vue, Angular, Node.js, Express.js, Next.js, GraphQL<br />
-✅    Golang/Gin, Python/Django/Flask, PHP/Laravel, Ruby on Rails <br />
+
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
