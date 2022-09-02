@@ -7,7 +7,7 @@
 ✅    GameFi (PlayToEarn Games, PvP, PvE)
 
 ###  Competent Web developer with 9+ years experience in <br />
-✅    Golang/Gin, Python/Django/Flask, PHP/Laravel, Node/Express/Nest.js, Ruby on Rails, Elixir/Phoenix <br />
+✅    Golang/Gin/Gofiber, Python/Django/Flask, PHP/Laravel, Node/Express/Nest.js, Ruby on Rails, Elixir/Phoenix <br />
 ✅    Typescript, React.js, Next.js, Redux, Vue.js, Nuxt.js, Vue, Angular, Node.js, Express.js, Next.js, GraphQL<br />
 
 
