@@ -1,15 +1,16 @@
-### Fullstack Blockchain developer with strong knowledge and 3+ years hands-on experience in <br />
+### Fullstack Web developer with 9+ years experience in <br />
+✅    Typescript, React.js, Next.js, Redux, Vue.js, Nuxt.js, Vue, Angular<br />
+✅    Node/Express/Nest.js, Golang/Gin/Gofiber, Python/Django/Flask, PHP/Laravel,  Ruby on Rails <br />
+✅    RESTful API, GraphQL, gRPC/tRPC <br />
+✅    MongoDB, MySQL, PostgreSQL, DynamoDB <br />
+✅    AWS amplify, lambda, EC2, S3 <br />
 
-✅    Solidity/OpenZeppline, Rust/Anchor, Hardhat, Truffle <br />
+### Blockchain developer with strong knowledge and 3+ years hands-on experience in <br />
+✅    Solidity/OpenZeppline, Hardhat, Truffle <br />
 ✅    Web3.js, Ether.js <br />
 ✅    DeFi, Dex, Stacking, Yield Farming, Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon..) <br />
 ✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
 ✅    GameFi (PlayToEarn Games, PvP, PvE)
-
-###  Competent Web developer with 9+ years experience in <br />
-✅    Golang/Gin/Gofiber, Python/Django/Flask, PHP/Laravel, Node/Express/Nest.js, Ruby on Rails, Elixir/Phoenix <br />
-✅    Typescript, React.js, Next.js, Redux, Vue.js, Nuxt.js, Vue, Angular, Node.js, Express.js, Next.js, GraphQL<br />
-
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
