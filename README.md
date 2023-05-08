@@ -1,4 +1,4 @@
-### Fullstack Web developer with 9+ years experience in <br />
+### Fullstack Web developer with 6+ years experience in <br />
 ✅    Typescript, React.js, Next.js, Redux, Vue.js, Nuxt.js, Vue, Angular<br />
 ✅    Node/Express/Nest.js, Golang/Gin/Gofiber, Python/Django/Flask, PHP/Laravel,  Ruby on Rails <br />
 ✅    RESTful API, GraphQL, gRPC/tRPC <br />
