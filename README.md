@@ -12,8 +12,6 @@
 ✅    NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
 ✅    GameFi (PlayToEarn Games, PvP, PvE)
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogw&layout=compact&theme=gotham&count_private=true">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mogw&show_icons=true&theme=gotham&count_private=true">
