@@ -59,6 +59,16 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/pycharm-1175008.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100"></td>
   </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=aws&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=gcp&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=azure&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=git&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=github&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=gitlab&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=docker&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" width="100"></td>
+  </tr>
 </table>
 
 <br/>
