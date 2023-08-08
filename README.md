@@ -25,12 +25,12 @@
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-go-77-1175166.png" width="100" title="Golang"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100" title="Python"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100" title="Node.js"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100" title="JavaScript"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100" title="TypeScript"></td>
     <td><img src="https://skillicons.dev/icons?i=django&theme=light" width="100" title="Django"></td>
     <td><img src="https://skillicons.dev/icons?i=flask&theme=light" width="100" title="Flask"></td>
     <td><img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="100" title="FastAPI"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100" title="Node.js"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100" title="JavaScript"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100" title="TypeScript"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-express-8-1175029.png" width="100" title="Express.js"></td>
     <td><img src="https://skillicons.dev/icons?i=nestjs&theme=light" width="100" title="Nest.js"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100" title="Java"></td>
