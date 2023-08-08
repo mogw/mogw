@@ -21,7 +21,7 @@
 <br />
 
 
-**Frameworks: **  
+** Frameworks: **  
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-go-77-1175166.png" width="100" title="Go"></td>
@@ -32,7 +32,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-flask-51-285137.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-express-8-1175029.png" width="100"></td>
-    <td><img src="https://skillicons.dev/icons?i=nestjs" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=nestjs&theme=light" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/html5-2474805-2056091.png" width="100"></td>
