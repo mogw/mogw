@@ -68,8 +68,6 @@
     <td><img src="https://skillicons.dev/icons?i=vim&theme=light" width="100" title="Vim"></td>
     <td><img src="https://skillicons.dev/icons?i=vscode&theme=light" width="100" title="VS Code"></td>
     <td><img src="https://skillicons.dev/icons?i=idea&theme=light" width="100" title="Intellij"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/pycharm-1175008.png" width="100" title="PyCharm"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100" title="Visual Studio"></td>
     <td><img src="https://skillicons.dev/icons?i=linux&theme=light" width="100" title="Linux"></td>
     <td><img src="https://skillicons.dev/icons?i=bash&theme=light" width="100" title="Bash"></td>
     <td><img src="https://skillicons.dev/icons?i=nginx&theme=light" width="100" title="Nginx"></td>
@@ -91,6 +89,7 @@
     <td><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" width="100" title="Kubernetes"></td>
     <td><img src="https://skillicons.dev/icons?i=grafana&theme=light" width="100" title="Grafana"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-ansible-282283.png" width="100" title="Ansible"></td>
+    <td><img src="https://www.svgrepo.com/show/376353/terraform.svg" width="100" title="Terraform"></td>
   </tr>
 </table>
 
