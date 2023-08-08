@@ -24,7 +24,7 @@
 
 <table>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-go-77-1175166.png" width="100" title="Go"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
