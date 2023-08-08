@@ -36,7 +36,6 @@
     <td><img src="https://skillicons.dev/icons?i=nestjs&theme=light" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=spring&theme=light" width="100"></td>
-    <td><img src="https://skillicons.dev/icons?i=solidity&theme=light" width="100"></td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="100"></td>
@@ -49,6 +48,8 @@
     <td><img src="https://skillicons.dev/icons?i=sqlite&theme=light" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-elasticsearch-226094.png" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=prometheus&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=solidity&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=ipfs&theme=light" width="100"></td>
   </tr>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
@@ -77,6 +78,7 @@
     <td><img src="https://skillicons.dev/icons?i=nginx&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=kafka&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=figma&theme=light" width="100"></td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=aws&theme=light" width="100"></td>
