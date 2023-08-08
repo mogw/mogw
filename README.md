@@ -77,7 +77,6 @@
     <td><img src="https://skillicons.dev/icons?i=nginx&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=kafka&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" width="100"></td>
-
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=aws&theme=light" width="100"></td>
