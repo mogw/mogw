@@ -62,6 +62,7 @@
     <td><img src="https://skillicons.dev/icons?i=css&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=sass&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=materialui&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=bootstrap&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=figma&theme=light" width="100"></td>
   </tr>
