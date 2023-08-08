@@ -29,7 +29,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=django&theme=light" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-flask-51-285137.png" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-express-8-1175029.png" width="100"></td>
