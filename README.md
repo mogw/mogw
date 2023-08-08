@@ -77,7 +77,6 @@
     <td><img src="https://skillicons.dev/icons?i=kafka&theme=light" width="100" title="Kafka"></td>
     <td><img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" width="100" title="RabbitMQ"></td>
     <td><img src="https://skillicons.dev/icons?i=bootstrap&theme=light" width="100" title="Bootstrap"></td>
-    <td><img src="https://skillicons.dev/icons?i=figma&theme=light" width="100" title="Figma"></td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=aws&theme=light" width="100" title="AWS"></td>
@@ -85,12 +84,13 @@
     <td><img src="https://skillicons.dev/icons?i=azure&theme=light" width="100" title="Azure"></td>
     <td><img src="https://skillicons.dev/icons?i=heroku&theme=light" width="100" title="Heroku"></td>
     <td><img src="https://skillicons.dev/icons?i=cloudflare&theme=light" width="100" title="Cloudflare"></td>
-    <td><img src="https://skillicons.dev/icons?i=jenkins&theme=light" width="100" title="Intellij"></td>
+    <td><img src="https://skillicons.dev/icons?i=jenkins&theme=light" width="100" title="Jenkins"></td>
     <td><img src="https://skillicons.dev/icons?i=docker&theme=light" width="100" title="Docker"></td>
     <td><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" width="100" title="Kubernetes"></td>
     <td><img src="https://skillicons.dev/icons?i=grafana&theme=light" width="100" title="Grafana"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-ansible-282283.png" width="100" title="Ansible"></td>
     <td><img src="https://www.svgrepo.com/show/376353/terraform.svg" width="100" title="Terraform"></td>
+    <td><img src="https://skillicons.dev/icons?i=figma&theme=light" width="100" title="Figma"></td>
   </tr>
 </table>
 
