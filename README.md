@@ -65,11 +65,14 @@
     <td><img src="https://skillicons.dev/icons?i=materialui&theme=light" width="100" title="MUI"></td>
   </tr>
   <tr>
+    <td><img src="https://skillicons.dev/icons?i=linux&theme=light" width="100" title="Linux"></td>
+    <td><img src="https://skillicons.dev/icons?i=bash&theme=light" width="100" title="Bash"></td>
     <td><img src="https://skillicons.dev/icons?i=vim&theme=light" width="100" title="Vim"></td>
     <td><img src="https://skillicons.dev/icons?i=vscode&theme=light" width="100" title="VS Code"></td>
     <td><img src="https://skillicons.dev/icons?i=idea&theme=light" width="100" title="Intellij"></td>
-    <td><img src="https://skillicons.dev/icons?i=linux&theme=light" width="100" title="Linux"></td>
-    <td><img src="https://skillicons.dev/icons?i=bash&theme=light" width="100" title="Bash"></td>
+    <td><img src="https://skillicons.dev/icons?i=git&theme=light" width="100" title="Git"></td>
+    <td><img src="https://skillicons.dev/icons?i=github&theme=light" width="100" title="Github"></td>
+    <td><img src="https://skillicons.dev/icons?i=gitlab&theme=light" width="100" title="Gitlab"></td>
     <td><img src="https://skillicons.dev/icons?i=nginx&theme=light" width="100" title="Nginx"></td>
     <td><img src="https://skillicons.dev/icons?i=kafka&theme=light" width="100" title="Kafka"></td>
     <td><img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" width="100" title="RabbitMQ"></td>
@@ -82,9 +85,7 @@
     <td><img src="https://skillicons.dev/icons?i=azure&theme=light" width="100" title="Azure"></td>
     <td><img src="https://skillicons.dev/icons?i=heroku&theme=light" width="100" title="Heroku"></td>
     <td><img src="https://skillicons.dev/icons?i=cloudflare&theme=light" width="100" title="Cloudflare"></td>
-    <td><img src="https://skillicons.dev/icons?i=git&theme=light" width="100" title="Git"></td>
-    <td><img src="https://skillicons.dev/icons?i=github&theme=light" width="100" title="Github"></td>
-    <td><img src="https://skillicons.dev/icons?i=gitlab&theme=light" width="100" title="Gitlab"></td>
+    <td><img src="https://skillicons.dev/icons?i=jenkins&theme=light" width="100" title="Intellij"></td>
     <td><img src="https://skillicons.dev/icons?i=docker&theme=light" width="100" title="Docker"></td>
     <td><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" width="100" title="Kubernetes"></td>
     <td><img src="https://skillicons.dev/icons?i=grafana&theme=light" width="100" title="Grafana"></td>
