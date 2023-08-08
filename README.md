@@ -36,6 +36,7 @@
     <td><img src="https://skillicons.dev/icons?i=nestjs&theme=light" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=spring&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=solidity&theme=light" width="100"></td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="100"></td>
@@ -45,6 +46,7 @@
     <td><img src="https://skillicons.dev/icons?i=dynamodb&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=firebase&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=redis&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite&theme=light" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-elasticsearch-226094.png" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=prometheus&theme=light" width="100"></td>
   </tr>
@@ -55,9 +57,12 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=reactivex&theme=light" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=graphql&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=html&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=css&theme=light" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=sass&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=figma&theme=light" width="100"></td>
   </tr>
   <tr>
@@ -67,22 +72,24 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/pycharm-1175008.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=linux&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=bash&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=nginx&theme=light" width="100"></td>
-    <td><img src="https://skillicons.dev/icons?i=gradle&theme=light" width="100"></td>
-    <td><img src="https://skillicons.dev/icons?i=maven&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=kafka&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" width="100"></td>
+
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=aws&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=gcp&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=azure&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=heroku&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=cloudflare&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=git&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=github&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=gitlab&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=docker&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" width="100"></td>
-    <td><img src="https://skillicons.dev/icons?i=kafka&theme=light" width="100"></td>
-    <td><img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=grafana&theme=light" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-ansible-282283.png" width="100"></td>
   </tr>
 </table>
