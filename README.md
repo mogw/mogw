@@ -64,8 +64,6 @@
     <td><img src="https://skillicons.dev/icons?i=sass&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=materialui&theme=light" width="100"></td>
-    <td><img src="https://skillicons.dev/icons?i=bootstrap&theme=light" width="100"></td>
-    <td><img src="https://skillicons.dev/icons?i=figma&theme=light" width="100"></td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=vim&theme=light" width="100"></td>
@@ -78,6 +76,7 @@
     <td><img src="https://skillicons.dev/icons?i=nginx&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=kafka&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap&theme=light" width="100"></td>
     <td><img src="https://skillicons.dev/icons?i=figma&theme=light" width="100"></td>
   </tr>
   <tr>
