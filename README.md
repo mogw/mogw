@@ -1,14 +1,14 @@
 ### Fullstack Web developer with 7+ years experience in <br />
 ✅    JavaScript/Typescript, Node/Express/Nest.js, Socket.io<br />
-✅    Golang/Gin/Gofiber, Python/Django/Flask, Java/SpringBoot  Ruby on Rails<br />
+✅    Python/Django/Flask/FastAPI, Java/SpringBoot, Golang/Gin/Gofiber<br />
 ✅    ORM: TypeORM/Sequelize/Prisma, SQLAlechemy/DjangoORM, Eloquent, Active Record<br />
-✅    React.js, Next.js, Redux, Vue.js, Nuxt.js, Vuex, Angular, NgRx<br />
-✅    RESTful API, GraphQL, gRPC/tRPC, Protobuf <br />
-✅    MongoDB, Cassandra, MySQL, PostgreSQL, Redis, ElasticSearch <br />
+✅    React.js, Next.js, Redux, Angular, NgRx, Vue.js, Nuxt.js, Vuex<br />
+✅    RESTful API, GraphQL, WebSocket, gRPC/tRPC, Protobuf <br />
+✅    MongoDB, Cassandra, MySQL, PostgreSQL, Redis, ElasticSearch(ELK) <br />
 ✅    AWS, GCP, Azure, Digital Ocean, Heroku <br />
 ✅    Kafka, RabbitMQ <br />
 ✅    Terraform, Ansible, Prometheus, Grafana/RayGun <br />
-✅    Git, CI/CD, Docker, Kubernetes, Terraform <br />
+✅    Git, CI/CD, Docker, Kubernetes <br />
 
 ### Blockchain developer with strong knowledge and 3+ years hands-on experience in <br />
 ✅    Solidity/OpenZeppline, Hardhat, Truffle <br />
