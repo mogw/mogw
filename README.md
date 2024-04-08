@@ -1,4 +1,4 @@
-### Fullstack Web developer with 7+ years experience in <br />
+### Fullstack Web developer with 8+ years experience in <br />
 ✅    JavaScript/Typescript, Node/Express/Nest.js, Socket.io<br />
 ✅    Python/Django/Flask/FastAPI, Java/SpringBoot, Golang/Gin/Gofiber<br />
 ✅    ORM: TypeORM/Sequelize/Prisma, SQLAlechemy/DjangoORM, Eloquent, Active Record<br />
