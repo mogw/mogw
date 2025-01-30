@@ -2,13 +2,14 @@
 ✅    JavaScript/Typescript, Node/Express/Nest.js, Socket.io<br />
 ✅    Python/Django/Flask/FastAPI, Java/SpringBoot, Golang/Gin/Gofiber<br />
 ✅    ORM: TypeORM/Sequelize/Prisma, SQLAlechemy/DjangoORM, Eloquent, Active Record<br />
-✅    React.js, Next.js, Redux, Angular, NgRx, Vue.js, Nuxt.js, Vuex<br />
+✅    React.js, Next.js, Redux, Angular, NgRx, Vue.js, Nuxt.js, Vuex, Swift<br />
+✅    Android & iOS app development: React Native, Flutter<br />
 ✅    RESTful API, GraphQL, WebSocket, gRPC/tRPC, Protobuf <br />
 ✅    MongoDB, Cassandra, MySQL, PostgreSQL, Redis, ElasticSearch(ELK) <br />
 ✅    AWS, GCP, Azure, Digital Ocean, Heroku <br />
 ✅    Kafka, RabbitMQ <br />
 ✅    Terraform, Ansible, Prometheus, Grafana/RayGun <br />
-✅    Git, CI/CD, Docker, Kubernetes <br />
+✅    Git, CI/CD, Docker, Kubernetes, Swiftio <br />
 
 ### Blockchain developer with strong knowledge and 3+ years hands-on experience in <br />
 ✅    Solidity/OpenZeppline, Hardhat, Truffle <br />
